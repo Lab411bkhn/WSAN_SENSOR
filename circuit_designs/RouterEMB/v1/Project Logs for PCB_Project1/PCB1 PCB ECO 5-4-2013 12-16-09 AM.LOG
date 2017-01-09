@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=LED5 Pin=dsPIC33FJ128MC804-14
-Added Pin To Net: NetName=LED5 Pin=dsPIC33FJ128MC804-12
-Added Pin To Net: NetName=LED6 Pin=dsPIC33FJ128MC804-13
-Added Pin To Net: NetName=LED7 Pin=dsPIC33FJ128MC804-14

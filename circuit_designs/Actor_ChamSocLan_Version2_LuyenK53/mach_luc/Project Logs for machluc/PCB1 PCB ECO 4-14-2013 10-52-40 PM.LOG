@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=NetC3_2 Pin=JP1-1
-Removed Pin From Net: NetName=V_BAT Pin=JP1-2
-Added Pin To Net: NetName=V_BAT Pin=JP1-1
-Added Pin To Net: NetName=NetC3_2 Pin=JP1-2

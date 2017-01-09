@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=12V Pin=K9-1
-Removed Pin From Net: NetName=RL6 Pin=K9-2
-Removed Pin From Net: NetName=NetJP11_2 Pin=K9-3
-Removed Pin From Net: NetName=12V Pin=K9-4
-Added Pin To Net: NetName=RL6 Pin=K9-1
-Added Pin To Net: NetName=12V Pin=K9-2
-Added Pin To Net: NetName=12V Pin=K9-3
-Added Pin To Net: NetName=NetJP11_2 Pin=K9-4

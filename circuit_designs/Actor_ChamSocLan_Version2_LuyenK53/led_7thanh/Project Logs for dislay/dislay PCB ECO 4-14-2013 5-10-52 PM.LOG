@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=595_LAT Pin=IC4-12
-Added Pin To Net: NetName=595_LAT Pin=IC3-12
-Added Pin To Net: NetName=NetIC4_12 Pin=IC4-12
-Added Pin To Net: NetName=NetIC4_12 Pin=R25-1
-Added Net: Name=NetIC4_12

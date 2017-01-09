@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=U2TX_RP23 Pin=UART2-1
-Removed Pin From Net: NetName=GND Pin=UART2-3
-Change Component DesignItemId : Designator=UART2 Old DesignItemId=Con3 New DesignItemId=Header 4
-Change Component Footprint: Designator=UART2 Old Footprint=CON3 New Footprint=HDR1X4
-Change Component Comment : Designator=UART2 Old Comment=UART2 New Comment=
-Added Pin To Net: NetName=U2TX_RP23 Pin=UART2-3
-Added Pin To Net: NetName=GND Pin=UART2-4
-Added Member To Class: ClassName=Canhbaochayrung Member=Component UART2 

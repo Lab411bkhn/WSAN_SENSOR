@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=PGC Pin=ICSP-1
-Removed Pin From Net: NetName=PGD Pin=ICSP-2
-Removed Pin From Net: NetName=VCC Pin=ICSP-4
-Removed Pin From Net: NetName=VPP Pin=ICSP-5
-Added Pin To Net: NetName=VPP Pin=ICSP-1
-Added Pin To Net: NetName=VCC Pin=ICSP-2
-Added Pin To Net: NetName=PGD Pin=ICSP-4
-Added Pin To Net: NetName=PGC Pin=ICSP-5

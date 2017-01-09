@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=CS Pin=MRF_CON-6
-Removed Pin From Net: NetName=SDI Pin=MRF_CON-7
-Removed Pin From Net: NetName=SCK Pin=MRF_CON-9
-Added Pin To Net: NetName=SDI Pin=MRF_CON-6
-Added Pin To Net: NetName=SCK Pin=MRF_CON-7
-Added Pin To Net: NetName=CS Pin=MRF_CON-9

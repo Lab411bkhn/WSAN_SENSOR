@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=VCAP Pin=C3-1
-Change Component Designator: OldDesignator=C3 NewDesignator=C4
-Added Pin To Net: NetName=GND Pin=C3-1
-Added Pin To Net: NetName=VCAP Pin=C4-1
-Added Pin To Net: NetName=GND Pin=C4-2
-Added Member To Class: ClassName=Sheet1 Member=Component C4 10uF

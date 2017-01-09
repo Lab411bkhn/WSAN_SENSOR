@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=SW_RESET-1
-Removed Pin From Net: NetName=NetR1_1 Pin=SW_RESET-2
-Removed Pin From Net: NetName=GND Pin=SW_RESET-3
-Removed Pin From Net: NetName=NetR1_1 Pin=SW_RESET-4
-Removed Member From Class: ClassName=Sheet1 Member=SW_RESET

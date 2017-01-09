@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=RL1 Pin=U2-36
-Removed Pin From Net: NetName=RL2 Pin=U2-41
-Removed Pin From Net: NetName=RL3 Pin=U2-43
-Added Pin To Net: NetName=RL3 Pin=U2-36
-Added Pin To Net: NetName=RL1 Pin=U2-41
-Added Pin To Net: NetName=RL2 Pin=U2-43

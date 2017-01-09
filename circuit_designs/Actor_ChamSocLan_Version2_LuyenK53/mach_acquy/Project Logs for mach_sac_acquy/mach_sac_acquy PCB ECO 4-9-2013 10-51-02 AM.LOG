@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=C7_2-2
-Removed Pin From Net: NetName=AC_ON Pin=U3-23
-Added Pin To Net: NetName=AC_ON Pin=U3-24
-Added Room: Name=mach_sac_acquy

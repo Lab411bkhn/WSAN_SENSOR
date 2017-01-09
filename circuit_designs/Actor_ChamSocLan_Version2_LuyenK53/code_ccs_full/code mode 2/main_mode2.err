@@ -1,5 +1,0 @@
->>> Warning 216 "main_mode2.c" Line 182(0,1): Interrupts disabled during call to prevent re-entrancy:  (@DIV88)
->>> Warning 216 "main_mode2.c" Line 182(0,1): Interrupts disabled during call to prevent re-entrancy:  (@I2C_WRITE_1)
->>> Warning 216 "main_mode2.c" Line 182(0,1): Interrupts disabled during call to prevent re-entrancy:  (update_time)
-      Memory usage:   ROM=15%      RAM=2% - 3%
-      0 Errors,  3 Warnings.

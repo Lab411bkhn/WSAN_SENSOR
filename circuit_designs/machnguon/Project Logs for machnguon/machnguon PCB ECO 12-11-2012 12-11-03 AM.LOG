@@ -1,4 +1,0 @@
-Change Component Footprint: Designator=C2 Old Footprint=CP2/4 New Footprint=SMD Capacistor 1206
-Change Component Footprint: Designator=U1 Old Footprint=lm2576-dan New Footprint=LM2576t
-Added Component: Designator=S1(MQ6)
-Added Member To Class: ClassName=machnguon Member=Component S1 MQ-6

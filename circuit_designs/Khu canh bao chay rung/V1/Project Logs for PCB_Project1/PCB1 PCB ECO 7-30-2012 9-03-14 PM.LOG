@@ -1,9 +1,0 @@
-Added Component: Designator=R8(C0805)
-Added Pin To Net: NetName=U1TX/RP25 Pin=JP?-1
-Added Pin To Net: NetName=U1RX/RP22 Pin=JP?-2
-Added Pin To Net: NetName=GND Pin=JP?-3
-Added Pin To Net: NetName=GND Pin=MQ6-1
-Added Pin To Net: NetName=CVREF+ Pin=MQ6-2
-Added Pin To Net: NetName=GND Pin=R8-1
-Added Pin To Net: NetName=INT0/RAINSENSOR Pin=R8-2
-Added Member To Class: ClassName=Sheet1 Member=Component R8 10k

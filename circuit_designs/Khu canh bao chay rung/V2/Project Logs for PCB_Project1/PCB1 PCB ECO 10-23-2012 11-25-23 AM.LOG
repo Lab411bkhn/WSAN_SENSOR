@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=R8-1
-Removed Member From Class: ClassName=Sheet1 Member=R8
-Change Component DesignItemId : Designator=RainSensor Old DesignItemId=Header 2 New DesignItemId=Header 3H
-Change Component Comment : Designator=RainSensor Old Comment=RainSensor New Comment=PIR module
-Change Component Description : Designator=RainSensor Old Description=Header, 2-Pin New Description=Header, 3-Pin, Right Angle
-Added Pin To Net: NetName=3.3VDC Pin=RainSensor-1
-Added Pin To Net: NetName=INT0 Pin=RainSensor-2
-Added Net: Name=INT0

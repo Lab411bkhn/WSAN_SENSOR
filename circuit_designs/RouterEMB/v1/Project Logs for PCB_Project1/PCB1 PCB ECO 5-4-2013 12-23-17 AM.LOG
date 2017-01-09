@@ -1,5 +1,0 @@
-Added Component: Designator=INT0(CON3)
-Added Pin To Net: NetName=GND Pin=INT0-1
-Added Pin To Net: NetName=INT0 Pin=INT0-2
-Added Pin To Net: NetName=VCC Pin=INT0-3
-Added Member To Class: ClassName=Sheet1 Member=Component INT0 JP3

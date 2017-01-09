@@ -1,2 +1,0 @@
-Change Component Footprint: Designator=RainSensor Old Footprint=CON2 New Footprint=CON3
-Added Pin To Net: NetName=GND Pin=RainSensor-3

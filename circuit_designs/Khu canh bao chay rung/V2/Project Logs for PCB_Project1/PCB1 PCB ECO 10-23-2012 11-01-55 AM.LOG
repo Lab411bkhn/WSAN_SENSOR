@@ -1,4 +1,0 @@
-Added Component: Designator=SW_BUTTON(SW-2P-S)
-Added Pin To Net: NetName=GND Pin=SW_BUTTON-1
-Added Pin To Net: NetName=NetR1_1 Pin=SW_BUTTON-2
-Added Member To Class: ClassName=Sheet1 Member=Component SW_BUTTON SW

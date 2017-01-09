@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=S2 Pin=IC2-9
-Added Component: Designator=R27(RES 0805 BUT)
-Added Pin To Net: NetName=S2 Pin=R27-2
-Added Pin To Net: NetName=NetIC2_9 Pin=IC2-9
-Added Pin To Net: NetName=NetIC2_9 Pin=R27-1
-Added Net: Name=NetIC2_9
-Added Member To Class: ClassName=dislay Member=Component R27 1

@@ -1,9 +1,0 @@
-Change Component Designator: OldDesignator=R? NewDesignator=R9
-Change Component Designator: OldDesignator=R? NewDesignator=R11
-Change Component Designator: OldDesignator=R? NewDesignator=R25
-Added Pin To Net: NetName=NetIC1_12 Pin=R9-1
-Added Pin To Net: NetName=595_LAT Pin=R9-2
-Added Pin To Net: NetName=NetIC2_12 Pin=R11-1
-Added Pin To Net: NetName=595_LAT Pin=R11-2
-Added Member To Class: ClassName=dislay Member=Component R11 1
-Added Member To Class: ClassName=dislay Member=Component R25 1

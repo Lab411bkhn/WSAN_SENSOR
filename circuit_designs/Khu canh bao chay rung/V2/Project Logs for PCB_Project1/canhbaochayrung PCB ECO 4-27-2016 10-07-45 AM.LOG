@@ -1,6 +1,0 @@
-Added Component: Designator=UART2(HDR1X5)
-Added Pin To Net: NetName=3.3VDC Pin=UART2-2
-Added Pin To Net: NetName=U2RX_RP24 Pin=UART2-3
-Added Pin To Net: NetName=U2TX_RP23 Pin=UART2-4
-Added Pin To Net: NetName=GND Pin=UART2-5
-Added Member To Class: ClassName=Canhbaochayrung Member=Component UART2 

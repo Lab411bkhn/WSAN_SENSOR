@@ -1,8 +1,0 @@
-Add Pin To Net: Pin=IC1-1 Old Net=BI New Net=B
-Add Pin To Net: Pin=IC1-2 Old Net=CI New Net=C
-Add Pin To Net: Pin=IC1-6 Old Net=DI New Net=D
-Add Pin To Net: Pin=IC1-7 Old Net=AI New Net=A
-Add Pin To Net: Pin=U3-8 Old Net=AI New Net=A
-Add Pin To Net: Pin=U3-9 Old Net=BI New Net=B
-Add Pin To Net: Pin=U3-10 Old Net=CI New Net=C
-Add Pin To Net: Pin=U3-11 Old Net=DI New Net=D

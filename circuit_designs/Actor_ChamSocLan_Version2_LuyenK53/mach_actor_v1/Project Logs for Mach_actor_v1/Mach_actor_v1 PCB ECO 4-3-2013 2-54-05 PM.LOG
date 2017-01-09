@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=LED_LCD Pin=U2-5
-Added Pin To Net: NetName=RL2 Pin=U2-2
-Added Pin To Net: NetName=RL3 Pin=U2-3
-Added Pin To Net: NetName=RL4 Pin=U2-4
-Added Pin To Net: NetName=RL5 Pin=U2-5
-Added Pin To Net: NetName=RL1 Pin=U2-41
